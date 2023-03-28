@@ -13,6 +13,8 @@
 		"food_max": 8,
 
 		"select_menu_scene": "Slugcat_Prototype",
-		"select_menu_scene_ascended": "Ghost_Prototype"
+		"select_menu_scene_ascended": "Ghost_Prototype",
+
+		"wall_climb": true
 	}
 }
