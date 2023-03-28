@@ -1,0 +1,9 @@
+﻿{
+	"id": "casheww.mountaineer",
+	"name": "The Mountaineer",
+	"version": "1.1.0",
+	"authors": "casheww",
+	"description": "A strong and nimble creature with a knack for climbing, <LINE>enabling them to pass obstacles where others may find an impass.",
+	"requirements": [ "slime-cubed.slugbase" ],
+	"requirements_names": [ "SlugBase" ]
+}

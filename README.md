@@ -1,6 +1,3 @@
-Use this template on GitHub or [download the code](https://github.com/SlimeCubed/ExampleSlugBaseMod/archive/refs/heads/master.zip), whichever is easiest.
+*A strong and nimble creature with a knack for climbing, enabling them to pass obstacles where others may find an impass.* 
 
-Links:
-- [Template Walkthrough](https://slimecubed.github.io/slugbase/articles/template.html) for a guide to this template.
-- [SlugBase Docs](https://slimecubed.github.io/slugbase/) for information regarding custom slugcats.
-- [Modding Wiki](https://rainworldmodding.miraheze.org/wiki/Downpour_Reference/Mod_Directories) for `modinfo.json` documentation.
+This is a plugin for Rain World 1.9, enabled by the wonderful SlimeCubed's [Slugbase](https://github.com/SlimeCubed/SlugBaseRemix). 

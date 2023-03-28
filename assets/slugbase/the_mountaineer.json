@@ -1,0 +1,18 @@
+{
+	"id": "Mountaineer",
+	"name": "The Mountaineer",
+	"description": "A strong and nimble creature with a knack for climbing, <LINE>enabling them to pass obstacles where others may find an impass.",
+	"features": {
+		"color": "645a42",
+		"weight": 1.2,
+		"tunnel_speed": 1.1,
+		"climb_speed": 1.2,
+		"loudness": 1.1,
+
+		"food_min": 5,
+		"food_max": 8,
+
+		"select_menu_scene": "Slugcat_Prototype",
+		"select_menu_scene_ascended": "Ghost_Prototype"
+	}
+}
